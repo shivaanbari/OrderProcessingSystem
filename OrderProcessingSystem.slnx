@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="InventoryService.Application/InventoryService.Application.csproj" Id="d4211988-3671-4c7a-9e52-5d8127f6d661" />
+  <Project Path="InventoryService.Domain/InventoryService.Domain.csproj" Id="6067bf86-f99d-40bf-9507-d91cc6bfbf5e" />
+  <Project Path="InventoryService.Infrastructure/InventoryService.Infrastructure.csproj" Id="eacec379-bb03-4580-9158-24eefa0f4de6" />
+  <Project Path="InventoryService.Worker/InventoryService.Worker.csproj" Id="b0d31da2-4221-4e71-a502-82cffd86c2d0" />
+  <Project Path="OrderProcessing.Contracts/OrderProcessing.Contracts.csproj" Id="b2eb652f-fb67-46ea-a199-ec24ec8da10a" />
+  <Project Path="OrderService.API/OrderService.API.csproj" />
+  <Project Path="OrderService.Application/OrderService.Application.csproj" />
+  <Project Path="OrderService.Domain/OrderService.Domain.csproj" />
+  <Project Path="OrderService.Infrastructure/OrderService.Infrastructure.csproj" />
+</Solution>
